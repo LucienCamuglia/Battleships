@@ -51,4 +51,4 @@ Here is a checklist of the project's needs :
 
 # Exemples 
 ## Images
-![Alt GameBoard](http://imgur.com/c5AWbqG "Game board")
+![Alt GameBoard](http://imgur.com/c5AWbqG)
