@@ -54,7 +54,7 @@ Here is a checklist of the project's needs :
 ![Alt GameBoard](http://i.imgur.com/c5AWbqG.png?1)
 ## .bnav file
 
-    `.csv`
+    ```csv
     # -------------------------------------------------------
     # BATAILLE NAVALE v0.1
     # -------------------------------------------------------
