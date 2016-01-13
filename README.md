@@ -8,6 +8,12 @@
 
 
 # Introduction
+> We are a class of students in computer science located in Geneva. For this project our objective is to develop
+a simple Battleships game in Visual C#. This project consists of fourteen members divided in two main groups :
+  - A group for creating the file format, writing files and reading files.
+  - A group for creating the user interface and interacting with the file.
+> The project's scope is approximatly four weeks.
+
 # Gameplay
 > The game consists of two players playing against each other. Each time a player fires a shot,
 the position of the bullet is stored into a "XML" file shared between the players. The "XML" file
