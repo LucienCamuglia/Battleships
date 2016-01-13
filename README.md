@@ -11,4 +11,5 @@
 # Gameplay
 > The game consists of two players playing against each other. Each time a player fires a shot,
 the position 
+<
 # Project rules
