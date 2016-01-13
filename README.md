@@ -13,7 +13,7 @@ a simple Battleships game in Visual C#. This project consists of fourteen member
   - A group for creating the file format, writing files and reading files.
   - A group for creating the user interface and interacting with the file.
 
-> The project's scope is approximatly four weeks. (:scream:)
+> The project's scope is approximatly four weeks. :scream:
 
 # Gameplay
 > The game consists of two players playing against each other. Each time a player fires a shot,
