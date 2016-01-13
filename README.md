@@ -48,3 +48,7 @@ Here is a checklist of the project's needs :
   - [ ] The game files are located on a shared folder (e.g. Google Drive, Dropbox...)
 
 > Have fun programming ! :fire::computer::fire:
+
+# Exemples 
+## Images
+[GameBoard](http://imgur.com/c5AWbqG)
