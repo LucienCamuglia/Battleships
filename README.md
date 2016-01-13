@@ -46,3 +46,5 @@ Here is a checklist of the project's needs :
   - [ ] The graphical interface lists current games.
   - [ ] The graphical interface lets the player create or join a game.
   - [ ] The game files are located on a shared folder (e.g. Google Drive, Dropbox...)
+
+> Have fun programming ! :fire::computer::fire:
