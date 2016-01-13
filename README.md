@@ -12,6 +12,7 @@
 a simple Battleships game in Visual C#. This project consists of fourteen members divided in two main groups :
   - A group for creating the file format, writing files and reading files.
   - A group for creating the user interface and interacting with the file.
+
 > The project's scope is approximatly four weeks.
 
 # Gameplay
@@ -28,6 +29,19 @@ removes the file when the player shot three times or hit a mine.
 > The players play one after the other and each turn consists of a volley of three shots. If one of the 
 shot lands on a mine, the turn is cut short and the next player doubles the size of his volley (six shots).
 
-> The game ends when all of one of a player's ships are destroyed (mines not included).
+> The game ends when all of one player's ships are destroyed (mines not included).
 
 # Project rules
+> Each group consists of approximatly six members, each working on a different part of the project.
+Here is a checklist of the project's needs.
+  - The game is cut up in multiple phases :
+    1. Place the ships on the grid (write file)
+    2. Shoot. (write file)
+    3. Show the player's shot on the other player's grid (readonly)
+    4. Repeat steps 1 - 3 until the end of the game
+    5. Show scores
+  - The graphical interface must show both grids, but only show the current player's ships.
+  - The graphical interface asks the player for a name at the begining of the game.
+  - The graphical interface lists current games.
+  - The graphical interface lets the player create or join a game.
+  - The game files are located on a shared folder (e.g. Google Drive, Dropbox...)
