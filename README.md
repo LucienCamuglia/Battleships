@@ -8,12 +8,12 @@
 
 
 # Introduction
-> We are a class of students in computer science located in Geneva. For this project our objective is to develop
+> We are a class of students in computer science located in Geneva :neckbeard:. For this project our objective is to develop
 a simple Battleships game in Visual C#. This project consists of fourteen members divided in two main groups :
   - A group for creating the file format, writing files and reading files.
   - A group for creating the user interface and interacting with the file.
 
-> The project's scope is approximatly four weeks.
+> The project's scope is approximatly four weeks. (:scream:)
 
 # Gameplay
 > The game consists of two players playing against each other. Each time a player fires a shot,
@@ -45,4 +45,4 @@ Here is a checklist of the project's needs :
   - [ ] The graphical interface asks the player for a name at the begining of the game.
   - [ ] The graphical interface lists current games.
   - [ ] The graphical interface lets the player create or join a game.
-  - [ ] The game files are located on a shared folder (e.g. Google Drive, Dropbox...) :scream:
+  - [ ] The game files are located on a shared folder (e.g. Google Drive, Dropbox...)
