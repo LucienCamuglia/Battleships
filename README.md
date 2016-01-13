@@ -34,15 +34,15 @@ shot lands on a mine, the turn is cut short and the next player doubles the size
 # Project rules
 > Each group consists of approximatly six members, each working on a different part of the project.
 Here is a checklist of the project's needs :
-  - [] The game is cut up in multiple phases :
+  - [ ] The game is cut up in multiple phases :
     1. Place the ships on the grid (write file)
     2. Place the other player's ships (write file)
     3. Shoot. (write file)
     4. Show the player's shot on the other player's grid (readonly)
     5. Repeat steps 3 and 4 until the end of the game
     6. Show scores
-  - [] The graphical interface must show both grids, but only show the current player's ships.
-  - [] The graphical interface asks the player for a name at the begining of the game.
-  - [] The graphical interface lists current games.
-  - [] The graphical interface lets the player create or join a game.
-  - [] The game files are located on a shared folder (e.g. Google Drive, Dropbox...)
+  - [x] The graphical interface must show both grids, but only show the current player's ships.
+  - [ ] The graphical interface asks the player for a name at the begining of the game.
+  - [ ] The graphical interface lists current games.
+  - [ ] The graphical interface lets the player create or join a game.
+  - [ ] The game files are located on a shared folder (e.g. Google Drive, Dropbox...)
