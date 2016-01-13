@@ -1,4 +1,4 @@
-# Battleships
+# Battleships :boat::bomb:
 
 | Title      |  Info                      |
 |------------|----------------------------|
