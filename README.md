@@ -14,7 +14,7 @@ the position of the bullet is stored into a "XML" file shared between the player
 comes with a ".lock" file which tells the program if the other player is still playing.
 The program automatically creates the ".lock" file while the player is shooting and automatically
 removes the file when the player shot three times or hit a mine.
-   The game file name format is : "BN-V01_YYYY-MM-DD-HH-MM-SS.bnav
+  - The game file name format is : "BN-V01_YYYY-MM-DD-HH-MM-SS.bnav
 
 
 
