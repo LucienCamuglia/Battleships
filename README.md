@@ -1,7 +1,8 @@
 # Battleships
 
+| Title      |  Info                      |
+|------------|----------------------------|
 |**School :**| CFPT-INFORMATIQUE - Geneva |
-|----|----|
 |**Class :** | T.IS-E1A                   |
 |**Date :**  | 13.01.2016                 |
 
