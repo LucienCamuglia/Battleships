@@ -53,3 +53,12 @@ Here is a checklist of the project's needs :
 ## Images
 ![Alt GameBoard](http://i.imgur.com/c5AWbqG.png?1)
 
+
+#PatchNotes
+## version 1.0 - 13.01.2016
+> Curent version 
+
+## version 0.1 - 12.2015
+> First version started in group of 2 student for trying to do the exercice.
+
+
